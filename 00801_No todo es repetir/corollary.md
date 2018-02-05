@@ -13,4 +13,11 @@ procedure Poner3AlNoreste() {
 }
 ```
 
-![poner-3-al-noreste-mal.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-repeticion-simple/master/images/poner-3-al-noreste-mal.png)
+<gs-board>
+ GBB/1.0
+    size 4 4
+    cell 1 1 Negro 1
+    cell 2 1 Negro 1
+    cell 3 1 Negro 1
+    head 3 1
+</gs-board>
