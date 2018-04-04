@@ -3,9 +3,9 @@ Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una 
 <table class= "table" style="width:100%">
   <thead>
   <tr>
-    <th style="text-align: center">Tabuleiro inicial</th>
-    <th style="text-align: center">O que faz</th> 
-    <th style="text-align: center">O que esperávamos</th>
+    <th style="text-align: center">Tablero inicial</th>
+    <th style="text-align: center">Lo que hace</th> 
+    <th style="text-align: center">Lo que esperábamos</th>
   </tr>
   </thead>
   <tbody>
