@@ -17,3 +17,13 @@ Si ahora queremos hacer que deje el cabezal en la última celda de la línea, te
 * **Tratar el último caso de manera especial.** Esta opción es más interesante y más fiel a lo que queremos hacer: la última vez no queremos que el cabezal se mueva, simplemente nos basta con poner la bolita negra.
 
 > Teniendo en cuenta esto último, escribí una nueva versión de `LineaNegra4Este` que deje el cabezal en la última celda de la línea.
+
+<gs-board>
+     GBB/1.0
+     size 4 2
+     cell 0 0 Negro 1
+     cell 1 0 Negro 1
+     cell 2 0 Negro 1
+     cell 3 0 Negro 1
+     head 3 0
+</gs-board>
