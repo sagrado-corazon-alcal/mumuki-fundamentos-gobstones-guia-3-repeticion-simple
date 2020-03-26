@@ -2,7 +2,7 @@
 rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    only_these_expectations_failed:
+    these_expectations_failed:
     - PonerAzulLejos HasRepeat
     - "* Not:Uses:IrAlBorde"
   then: El procedimiento que te pedimos no tiene que ir al borde, sino sólo moverse
