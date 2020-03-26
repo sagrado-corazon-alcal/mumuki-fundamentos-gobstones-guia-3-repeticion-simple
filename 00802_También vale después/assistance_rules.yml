@@ -4,6 +4,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - "* Not:Uses:IrAlBorde"
-    - PonerAzulLejos HasRepeat
   then: El procedimiento que te pedimos no tiene que ir al borde, sino sólo moverse
     4 celdas al este. Usá `repeat` en lugar de `IrAlBorde`
